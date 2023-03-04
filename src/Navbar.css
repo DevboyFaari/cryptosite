@@ -1,0 +1,20 @@
+.tt{
+    display: inline-block;
+    line-height: 20px;
+}
+
+a{
+    /* margin-left: 10px; */
+    margin-top: -37px;
+    padding-right: 80px;
+       line-height: 20px;
+
+}
+
+img{
+    margin-left: 90px;
+}
+
+.ham{
+    font-size: 30px;
+}
