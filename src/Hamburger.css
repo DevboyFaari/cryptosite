@@ -63,7 +63,7 @@
     opacity: 0.5;       
  animation-name: menu;
  animation-duration: 1s;
- /* top:0; */
+ top:0;
 /* position:relative; */
     
 }
